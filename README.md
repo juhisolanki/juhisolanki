@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @juhisolanki
-- 👀 I’m interested in solving your problems
-- 🌱 I’m currently learning c language
+
 - 
 - 
 
